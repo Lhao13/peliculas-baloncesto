@@ -1,0 +1,5 @@
+El programa fuciona apartir de una API externa llamada py_api esta se debe correr antes para poder ejecutar la funcionalidad de las peliculas.
+
+Para un facil acceso la py_api se corre en linea, y es nesesario actualizar el link en el documento llamado globales.dart, cada vez que el servidor se apaga o reinicia.
+
+Para que el servicio de API en linea funcionara se uso ngrok (https://ngrok.com/)

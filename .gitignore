@@ -1,0 +1,23 @@
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+py_api_basket/pyapi/
+py_api_basket/py_api_basket/
+
+# Flutter and Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Local report used to prepare the README
+Informe_del_trabajo.pdf
